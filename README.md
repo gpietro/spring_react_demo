@@ -1,6 +1,6 @@
 # spring_react_demo
 
-This project is a demo related to this article.
+This project is a demo related to this [article](https://medium.com/@pietroghezzi/spring-and-react-js-the-easy-way-5abe8a529058).
 
 ## Requirements
 - Java SDK v1.6 or higher
