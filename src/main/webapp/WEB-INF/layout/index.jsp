@@ -1,7 +1,1 @@
-
-<!DOCTYPE html>
-<html lang="en">
-<body>
-	hello moto!
-</body>
-</html>
+<%@include file="/demo/build/index.html"%>
