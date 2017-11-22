@@ -1,5 +1,6 @@
 # Spring and React.js demo
 
+Demonstration on how to use React.js with Spring when isn't possible to use docker and with a single deployment.
 This project is a demo related to this [article](https://medium.com/@pietroghezzi/spring-and-react-js-the-easy-way-5abe8a529058).
 
 ## Requirements
