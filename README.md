@@ -9,6 +9,7 @@ This project is a demo related to this [article](https://medium.com/@pietroghezz
 ## Installation
 ```shell
 cd /apps/demo
+yarn install
 yarn build
 cd ../../
 mvn spring-boot:run
